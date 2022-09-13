@@ -1,0 +1,21 @@
+.the-pic {
+background-size: cover;
+background-repeat: no-repeat;
+height: 800px;
+}
+.jumbotron {
+    background-image: "C:\Users\dinas\OneDrive\Documents\Desktop\Bitwise\MF-22-08\bootstrap-boilerplate\img\Hero2.jpg";
+    height: 80vh;
+    background-size: cover; 
+    background-position: center; 
+    color: #ffffff; 
+}
+.carousel-item {
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.pics {
+    width: 500px;
+    height: 500px;
+}
