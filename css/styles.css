@@ -19,7 +19,31 @@ height: 800px;
 .pics {
     width: 500px;
 } 
+.parallax-1 {
+background-image: url("../img/candidate-daydreams.png");
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 500px;
+}
 
+.parallax-2 {
+background-image: url("../img/candidate-pretends-to-listen-to-constituents.png");
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 500px;
+}
+.parallax-3 {
+background-image: url("../img/hero-image.png");
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+min-height: 500px;
+}
 @media screen and (max-width: 425px) {
 .the-pic {
     height: 400px;
